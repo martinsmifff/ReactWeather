@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p className="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem in vitae quasi, omnis adipisci laudantium ea ducimus. Minus, placeat voluptatibus, aut, delectus repellat doloremque fuga modi quas dolorem porro iusto.</p>
       <p>
         Here are some of the tools used to create this site:
